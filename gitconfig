@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = oluwachidis@gmail.com
+	name = chidiebere okeoji
